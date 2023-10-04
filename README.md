@@ -29,6 +29,9 @@ pkg install python -y
 pkg install git -y
 pip install requests
 git clone https://github.com/EvilCorp-X/Bypass
+pip install requests
+pip install rich
+pip install bs4
 cd Bypass
 python bypass.py
 ```
