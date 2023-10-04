@@ -7,7 +7,7 @@ rm -rf Bypass
 ```
 In your Terminal
 
-### Version 4.1 Updates:
+### Version 9.9 Updates:
 <li>Done Some Mejor Changes of Source Files</li>
 <li>Dead APIs Removed</li>
 <li>New APIs added</li>
@@ -35,7 +35,7 @@ pip install bs4
 cd Bypass
 python bypass.py
 ```
-Password: Dark011
+## Password: Dark011
 
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
