@@ -35,7 +35,7 @@ pip install bs4
 cd Bypass
 python bypass.py
 ```
-**## Password: Dark011**
+** Password: Dark011**
 
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
