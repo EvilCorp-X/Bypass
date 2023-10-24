@@ -37,7 +37,7 @@ python bypass.py
 ```
 ( Choose Your Python Version )
 
-[*] For Python2:
+[*] For Old Version:
 ``` shell script
 python bypass9_9.py
 ```
