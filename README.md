@@ -35,8 +35,22 @@ pip install bs4
 cd Bypass
 python bypass.py
 ```
-## Password: Dark011
+( Choose Your Python Version )
 
+[*] For Python2:
+``` shell script
+python bypass9_9.py
+```
+[*] For Update Version
+``` shell script
+python bypass10_6.py
+```
+## Tool Password
+``` shell script
+Enter Password: Dark011
+Username      : v
+Password      : k
+```
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
 <li>EvilCorp-X Will Never Be Responsible For Any Misuse</li>
