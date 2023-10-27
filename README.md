@@ -33,7 +33,6 @@ pip install requests
 pip install rich
 pip install bs4
 cd Bypass
-python bypass.py
 ```
 ( Choose Your Python Version )
 
