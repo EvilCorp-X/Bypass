@@ -52,11 +52,11 @@ bypass10_7
 ``` shell script
 Password: Dark011
 ```
-## 10.7 tool Password
+## 10.6 tool Password
 ``` shell script
 Enter Password: Dark011
-Username      : n
-Password      : e
+Username      : v
+Password      : k
 ```
 ## 10.7 tool Password
 ``` shell script
