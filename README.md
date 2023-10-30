@@ -44,12 +44,27 @@ python bypass9_9.py
 ``` shell script
 python bypass10_6.py
 ```
-## Tool Password
+### OR
+``` shell script
+bypass10_7
+```
+## 9.9 tool Password
+``` shell script
+Password: Dark011
+```
+## 10.7 tool Password
 ``` shell script
 Enter Password: Dark011
-Username      : v
-Password      : k
+Username      : n
+Password      : e
 ```
+## 10.7 tool Password
+``` shell script
+Enter Password: Dark011
+Username      : n
+Password      : e
+```
+
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
 <li>EvilCorp-X Will Never Be Responsible For Any Misuse</li>
