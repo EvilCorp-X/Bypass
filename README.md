@@ -44,9 +44,9 @@ python bypass9_9.py
 ``` shell script
 python bypass10_6.py
 ```
-### OR
+### New Version
 ``` shell script
-bypass10_7
+bypass10_7.py
 ```
 ## 9.9 tool Password
 ``` shell script
