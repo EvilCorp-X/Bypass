@@ -50,19 +50,19 @@ python bypass10_7.py
 ```
 ## 9.9 tool Password
 ``` shell script
-Password: Dark011
+Password: 
 ```
 ## 10.6 tool Password
 ``` shell script
-Enter Password: Dark011
-Username      : v
-Password      : k
+Enter Password: 
+Username      : vm
+Password      : km
 ```
 ## 10.7 tool Password
 ``` shell script
-Enter Password: Dark011
-Username      : n
-Password      : e
+Enter Password: 
+Username      : nm
+Password      : em
 ```
 
 ## Note:
