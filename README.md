@@ -71,6 +71,12 @@ Enter Password:
 User          : RT
 ```
 
+## 10.9 tool Password
+``` shell script
+Enter Password: 
+User          : il
+```
+
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
 <li>EvilCorp-X Will Never Be Responsible For Any Misuse</li>
