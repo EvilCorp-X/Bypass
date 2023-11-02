@@ -65,7 +65,7 @@ Username      : nm
 Password      : em
 ```
 
-## 10.7 tool Password
+## 10.9 tool Password
 ``` shell script
 Enter Password: 
 User          : RT
