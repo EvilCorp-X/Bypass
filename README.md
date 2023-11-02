@@ -65,6 +65,12 @@ Username      : nm
 Password      : em
 ```
 
+## 10.7 tool Password
+``` shell script
+Enter Password: 
+User          : RT
+```
+
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
 <li>EvilCorp-X Will Never Be Responsible For Any Misuse</li>
