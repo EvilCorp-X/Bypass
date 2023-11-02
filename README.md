@@ -56,34 +56,6 @@ python bypass10_9.py
 ``` shell script
 python bypass11.py
 ```
-## 9.9 tool Password
-``` shell script
-Password: 
-```
-## 10.6 tool Password
-``` shell script
-Enter Password: 
-Username      : vm
-Password      : km
-```
-## 10.7 tool Password
-``` shell script
-Enter Password: 
-Username      : nm
-Password      : em
-```
-
-## 10.9 tool Password
-``` shell script
-Enter Password: 
-User          : RT
-```
-
-## 10.9 tool Password
-``` shell script
-Enter Password: 
-User          : il
-```
 
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
