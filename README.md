@@ -56,6 +56,10 @@ python bypass10_9.py
 ``` shell script
 python bypass11.py
 ```
+### New Update Version
+``` shell script
+python bypass11_1.py
+```
 
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
