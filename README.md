@@ -54,11 +54,15 @@ python bypass10_9.py
 ```
 ### New Update Version
 ``` shell script
-python bypass11.py
+python bypass11_0.py
 ```
 ### New Update Version
 ``` shell script
 python bypass11_1.py
+```
+### New Update Version
+``` shell script
+python bypass11_2.py
 ```
 
 ## Note:
