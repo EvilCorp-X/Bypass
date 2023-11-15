@@ -65,6 +65,11 @@ python bypass11_1.py
 python bypass11_2.py
 ```
 
+### New Update Version
+``` shell script
+python bypass11_3.py
+```
+
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
 <li>EvilCorp-X Will Never Be Responsible For Any Misuse</li>
